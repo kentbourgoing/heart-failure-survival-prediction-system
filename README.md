@@ -192,7 +192,7 @@ Run all cells to reproduce 21-model comparison and performance metrics.
 
 ### Academic Context:
 - **UC Berkeley School of Information** - DATASCI 207: Applied Machine Learning
-- **Project Duration:** August 2024 - December 2024 (12-week capstone)
+- **Project Duration:** August 2024 - December 2024 (12-week final project)
 - **GitHub Repository:** https://github.com/JasmolSD/207_007_final_project
 
 ---
